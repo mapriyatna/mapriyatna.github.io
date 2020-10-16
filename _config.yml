@@ -5,7 +5,7 @@ description: "Halo... Selamat datang di blog Muhamad Apriyatna 181011401125"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mapriyatna.github.io
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'G-0CZ1ZLDYZB'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -19,7 +19,7 @@ authors:
     display_name: Mapriyatna
     gravatar: 93273abec768a40ca4a15d187dbf647f
     email: mapriyatna.ay@gmail.com
-    web: https:/www.lebakcyber.net
+    web: https://www.lebakcyber.net
     twitter: https://twitter.com/MApriyatna
     description: "Belajar Sebelum Malas"
 
