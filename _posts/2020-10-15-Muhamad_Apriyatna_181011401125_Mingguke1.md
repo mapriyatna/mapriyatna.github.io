@@ -13,13 +13,13 @@ Sebelum kita membuat program java dengan netbeans, hal yang paling penting tentu
 
 Selanjutnya buat project dengan netbeans.
 Pada tahap ini kalian pilih project java lalu Java Application dan pilih "Next"
-![contoh gambar](assets/images/project.png)
+![](assets/images/project.png)
 
 Selanjutnya buat nama project sesuai dengan nama kalian masing-masing, disini saya isikan "MuhamadApriyatna_181011401125_Mingguke1" lalu pilih "Finish".
-![contoh gambar](assets/images/np.png)
+![](assets/images/np.png)
 
 Dalam "Source Package", klik kanan pilih New lalu pilih "Java Package" dan isi dengan nama "PertemuanMinggu1".
-![atau seperti gambar di bawah ini :](assets/images/jp.png)
+![](assets/images/jp.png)
 
 Tahap selanjutnya, Kita akan mencoba buat desain aplikasi cetak kata seperti gambar di bawah ini.
 ![](assets/images/contoh.png)
