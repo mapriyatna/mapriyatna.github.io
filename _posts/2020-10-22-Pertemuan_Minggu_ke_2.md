@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Membuat aplikasi Booking Hotel sederhana dengan Java Netbeans || Muhamad Apriyatna_181011401125_Tugas Minggu ke 2"
+title:  "Cetak Prosses Aplikasi Booking Hotel || Minggu ke 2"
 author: Mapriyatna
 categories: [ Tutorial ]
 image: assets/images/1.jpg
 ---
 
 #### *Menggabungkan Studi kasus dari pertemuan minggu ke 2*
+##### Membuat aplikasi Booking Hotel sederhana dengan Java Netbeans 
+###### Muhamad Apriyatna_181011401125_Tugas Minggu ke 2
 
-Pada pertemuan ini, saya akan membagikan sedikit tutorial bagaimana cara membuat aplikasi GUI Booking Hotel (gabungan dari pembahasan materi studi kasus pertemuan minggu ke 2) dengan Java Netbeans.
+Pada pertemuan ini, saya akan membagikan sedikit tutorial bagaimana cara membuat aplikasi GUI Booking Hotel *(gabungan dari pembahasan materi studi kasus pertemuan minggu ke 2)* dengan Java Netbeans.
 
 Simak baik-baik pembahasan tutorial kali ini baik-baik ;)
 
