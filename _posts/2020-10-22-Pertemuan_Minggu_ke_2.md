@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutorial - Booking Hotel sederhana dengan Java Netbeans || Minggu Kedua"
+title:  "Membuat aplikasi Booking Hotel sederhana dengan Java Netbeans || Muhamad Apriyatna_181011401125_Tugas Minggu ke 2"
 author: Mapriyatna
 categories: [ Tutorial ]
 image: assets/images/1.jpg
@@ -18,13 +18,18 @@ Selanjutnya buat project dengan netbeans.
 Pada tahap ini kalian pilih project java lalu Java Application dan pilih "Next".
 ![Contoh gambar](/assets/images/project.png)
 
+
 Selanjutnya buat nama project sesuai dengan nama kalian masing-masing, disini saya isikan "PertemuanMinggu2" lalu pilih "Finish".
 Lalu, dalam "Source Package", klik kanan pilih "New" lalu pilih "Java Package" dan isi dengan nama "LatihanMinggu2".
-Klik kanan lagi pada "Source Package", pilih "New" lalu pilih "jFrame From...".
-![atau seperti gambar di bawah ini :](/assets/images/m1.png)
+
+Klik kanan lagi pada "Source Package", pilih "New" lalu pilih "jFrame From..."
+![atau seperti gambar di bawah ini](/assets/images/m1.png)
+
 
 Tahap selanjutnya, Kita akan mencoba buat desain aplikasi cetak kata seperti gambar di bawah ini.
 ![](/assets/images/m22.png)
+
+
 
 Pertama kita susun terlebih dahulu desainnya seperti ini :
 ![](/assets/images/m2.png)
@@ -78,16 +83,21 @@ variable CheckBox Perempuan :
         JKLabel.setText(JK);
 ```
 
+
 Berikutnya kita setting variable jComboBox yang sudah di ganti sebelumnya menjadi "JPComboBox".
+
 Pertama, Klik kanan pilih "Properties" pilih tanda "..." (titik), lalu edit seperti yang ini.
 ![](/assets/images/m4.png)
 
 **catatan:** *pada SelectedIndex ubah dengan -1, karena list item dimulai dari index 0 atau urutan item yang kita edit seperti gambar di atas*
 
+
 Lalu, tambahkan script code untuk menjalankan list item yang dimulai dari -1.
 
 Masukkan script code `JPComboBox.setSelectedIndex(-1);` tepat pada ***method constructor***.
+
 ![atau seperti gambar dibawah ini.](/assets/images/m5.png)
+
 
 Sekarang kita setting action klik-nya.
 Langkah selanjutnya, pada JPComboBox klik kanan, pilih Events, Action, lalu pilih ActionPerformed. Lalu masukkan script code dibawah ini
@@ -131,8 +141,9 @@ lalu, isi source code ini ke dalamnya.
 
 Langkah terakhir yaitu kita coba jalankan aplikasinya dengan cara pilih atau klik tombol "Run" juga bisa dengan 'Shift + F6', tunggu beberapa detik dan muncul lah hasil program aplikasi yang kita buat.
 
-Di dalamnya, kita bisa isikan nama dan pesan kita, dan klik "Submit".
+Di dalamnya, kita bisa isikan nama dan keterangan, lalu klik "Pesan Sekarang".
 ![](/assets/images/m3.png)
+
 
 Taraaa... selamat kamu berhasil membuat program Booking Hotel dengan Java Netbeans.
 
