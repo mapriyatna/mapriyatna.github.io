@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutorial - Cetak Kata dengan Java Netbeans || Minggu Pertama"
+title:  "Cetak Kata dengan Java Netbeans || Minggu Pertama"
 author: Mapriyatna
 categories: [ Tutorial ]
 image: assets/images/1.jpg
