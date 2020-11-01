@@ -23,7 +23,7 @@ Pertama jalankan XAMPP terlebih dahulu, lalu aktifkan Apache dan MySQL.
 ![](/assets/images/p3_d.png)
 
 Buka Web browser, lalu ketik di kolom url "**localhost/phpmyadmin**".
-Setelah itu create database dengan nama *database_kontak*, lalu buat database tabel dengan 5 kolom dengan index pada kolom pertama "**id_kontak sebagai primary key**". [](/assets/images/p3_3.png)
+Setelah itu create database dengan nama *database_kontak*, lalu buat database tabel dengan 5 kolom dengan index pada kolom pertama "**id_kontak sebagai primary key**". ![](/assets/images/p3_3.png)
 
 Kita beralih ke Netbeans IDE, buat project baru dengan cara File → New Project → Java Application → Next. lalu nama project "PertemuanMingguke3" dan "Finish".
 
