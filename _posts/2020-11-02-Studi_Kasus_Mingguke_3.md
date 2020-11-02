@@ -30,15 +30,15 @@ Dalam Source Package kita buat baru *jFrame From...* dengan nama (disini saya is
 Sebelum kita mengisi jFrame, jangan lupa untuk menambahkan **MySQL JDBC Driver** didalam Libraries untuk mengatur koneksi ke database MySQL.
 ![](/assets/images/p3_2.png)
 
-Pada *jFrame* "input_data_kontak" kita buat desain seperti ini.
+Pada *jFrame* "MuhamadApriyatna_Minggkuke3" kita buat desain seperti ini.
+![](/assets/images/p3_g.png).
 
-Dengan 6 Label, 4 TextField, 1 ComboBox, 1 Button, dan 1 Table yang ada pada Swing Controls, dan jangan lupa atur properties dan nama variable nya ;).
-![](/assets/images/p3_g.png)
+*Dengan 6 Label, 4 TextField, 1 ComboBox, 1 Button, dan 1 Table yang ada pada Swing Controls, dan jangan lupa atur properties dan nama variable nya ;)*.
 
 Pada ComboBox, kita atur seperti ini, dan jangan lupa pada *SelectedIndex "-1"* :
 ![](/assets/images/p3_9.png).
 
-**Selanjutnya** ***Tahap selanjutnya, Kita akan memulai dengan mengetikkan coding.***
+**Selanjutnya,** ***Kita akan memulai dengan mengetikkan coding.***
 
 Untuk mempersingkat waktu, silahkan kalian download source code beserta format desainnya [DI SINI](https://app.box.com/s/1rphz9nji85k6jza2mr3yikhk029ya9i).
 
@@ -46,6 +46,7 @@ Dan paste di project Netbeans kalian.
 
 ---
 ***Saya harap kalian cukup paham dengan source code nya***
+
 ---
 
 Setelah semuanya selesai,
