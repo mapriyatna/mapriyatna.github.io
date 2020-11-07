@@ -331,7 +331,7 @@ Langkah terakhir yaitu kita coba jalankan aplikasinya dengan cara pilih atau kli
 
 *Selamat kamu berhasil membuat Program Aplikasi Database dengan Java Netbeans & MySQL.*
 
-Untuk source code nya kalian bisa [DOWNLOAD LANGSUNG](http://bit.ly/File_UTS).
+Untuk source code nya kalian bisa [DOWNLOAD LANGSUNG](http://bit.ly/FileProgram)
 
 Untuk demo aplikasinya, silahkan lihat video dibawah ini :
 [![Program Penyewaan Lapangan Futsal](https://res.cloudinary.com/marcomontalbano/image/upload/v1604765554/video_to_markdown/images/youtube--jHS3-TIFesU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/jHS3-TIFesU "Program Penyewaan Lapangan Futsal").
